@@ -1,8 +1,5 @@
 # FG-DCS-CNN: Advanced EEG Signal Classification Model
 
-![Model Architecture](fg_dcs_cnn_architecture.png)
-*Generated architecture diagram (run `main.py` to recreate).*
-
 A sophisticated deep learning model for EEG-based classification, integrating **Dynamic Channel Selection (DCS)**, **Channel Attention Module (CAM)**, and **Feature Generation Module (FGM)** with a Convolutional Neural Network (CNN) backbone. This implementation follows the methodology from research on addressing class imbalance in EEG signals through synthetic feature augmentation and adaptive channel weighting. Designed for 4-class classification tasks (e.g., motor imagery or seizure detection).
 
 ## 🚀 Features
